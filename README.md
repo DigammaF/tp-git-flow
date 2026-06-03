@@ -3,6 +3,7 @@
 API NestJS minimaliste — support du TP cours-02, Partie 2 (Git Flow).
 
 UWU
+emergency OwO
 
 ---
 
